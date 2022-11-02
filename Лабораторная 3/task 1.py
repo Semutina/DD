@@ -1,6 +1,7 @@
 src = not False and True or False and not True
 
-# TODO расписать упрощение выражения
+src = True and True or False and False
+src = True or False # 1+0=1
 
 result = True
 
